@@ -1,5 +1,5 @@
-// Calculate the sum of two numbers
-// i added this line
+// Combined changes
 function calculateSum(a: number, b: number): number {
-    return a + b;
+    // This function now multiplies instead of adding
+    return a * b;
 }
